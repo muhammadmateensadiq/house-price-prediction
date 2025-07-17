@@ -33,8 +33,4 @@ This project is a **Machine Learning regression model** designed to predict hous
 - **MSE (Mean Squared Error)**
 - **RMSE (Root Mean Squared Error)**
 
-## Deploy (Streamlit)
-
-This project has been deployed using **Streamlit** to make predictions via a simple web interface.
- <!-- **[Click here to visit the House Price Prediction Web App](./app.py)** -->
 
